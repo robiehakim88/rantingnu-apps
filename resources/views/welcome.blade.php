@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranting NU Pelem</title>
+    <title>Ranting NU Pelem Kertosono</title>
     <!-- Tailwind CSS Play CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -13,7 +13,7 @@
     <header class="sticky top-0 z-50 bg-white shadow-[0px_0px_1px_0px_rgba(0,0,0,0.03),0px_1px_2px_0px_rgba(0,0,0,0.06)]">
         <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
             <a href="#" class="text-xl font-medium text-[#1b1b18] hover:text-[#F53003] transition-colors duration-300">
-                Ranting NU Pelem
+                Ranting NU Pelem Kertosono
             </a>
             <ul class="flex space-x-4">
                
