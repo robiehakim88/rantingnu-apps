@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Fitur Aplikasi
+1. Manajemen Anggota
+2. Manajemen Peran Anggota
+3. Manajemen Surat
+4. Manajemen Keuangan
+5. Manajemen Kegiatan
+6. Manajemen Data Masjid dan Musholla
+7. Manajemen Data Yatim Piatu
